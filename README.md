@@ -10,45 +10,9 @@ Our Group Feedback Forum
 <tr>
 <td>
 <img src="http://q.ebaystatic.com/aw/pics/icon/iconPos_16x16.gif" height="16" width="16" alt="Positive feedback rating">
-Welcome to GitHub -Vipul
+I LOVE THIS GUY! HE LEFT ME A + FEEDBACK! 😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊-Vipul
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vipul: Thanks for the feedback!
-</td>
-</tr>
-<tr>
-<td>
-<img src="http://q.ebaystatic.com/aw/pics/icon/iconNeg_16x16.gif" height="16" width="16" alt="Negative feedback rating"> 
-DID NOT READ HANDOUT! Forgot Project_Documents folder! Prof. Raley opened issue! -Vipul
-</td>
-</tr>
-<tr>
-<td>
-<img src="http://q.ebaystatic.com/aw/pics/icon/iconNeu_16x16.gif" height="16" width="16" alt="Neutral feedback rating"> 
-Slow to publish usability test results! -Vipul
-</td>
-</tr>
-<tr>
-<td>
-<img src="http://q.ebaystatic.com/aw/pics/icon/iconNeg_16x16.gif" height="16" width="16" alt="Negative feedback rating">
-Did not fully publish user profiles in Tech Drsign Doc! -Vipul
-</td>
-</tr>
-<tr>
-<td>
-<img src="http://q.ebaystatic.com/aw/pics/icon/iconPos_16x16.gif" height="16" width="16" alt="Positive feedback rating">
-Provided CustomCupcakes form fields and fieldsets! -Vipul
-</td>
-</tr>
-<tr>
-<td>
-<img src="http://q.ebaystatic.com/aw/pics/icon/iconPos_16x16.gif" height="16" width="16" alt="Positive feedback rating">
-Had a fun time playing around with PHP! -Vipul
-</td>
-</tr>
-<tr>
-<td>
-<img src="http://q.ebaystatic.com/aw/pics/icon/iconPos_16x16.gif" height="16" width="16" alt="Positive feedback rating">
-Cute Gravatar! -Vipul
 </td>
 </tr>
 </table>
